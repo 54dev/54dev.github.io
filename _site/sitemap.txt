@@ -1,0 +1,11 @@
+
+http://54dev.github.io/archive.html
+http://54dev.github.io/atom.xml
+http://54dev.github.io/categories.html
+http://54dev.github.io/index.html
+http://54dev.github.io/pages.html
+http://54dev.github.io/rss.xml
+http://54dev.github.io/sitemap.txt
+http://54dev.github.io/tags.html
+
+http://54dev.github.io/works/magento-developer
